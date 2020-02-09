@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>X-Ray Pneumonia Recognition</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body><center>
+    <h1>Upload your X-Ray Image</h1>
+    <form style="font-size: 30px;" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" value="upload"> 
+    </form>
+    <img src="/static/sus.png"></center>
+</body>
+</html>

@@ -10,7 +10,7 @@ In the Flask folder you will find a simple deployment of the project with Flask.
 
 If you have any doubts or questions please send me a e-mail or you can find me on LinkedIN.
 
-robsonsilvadasilva@gmail.com
+robsonsilvadasilva@gmail.com /
 www.linkedin.com/in/robsonsilvadasilva
 
 Best Regards,

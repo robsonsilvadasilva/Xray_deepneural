@@ -1,3 +1,5 @@
+## Project on Convolutional Neural Networks to detect pneumonia on X-ray Images.
+
 This repository contain all files that I used in my final project on Iron Hack School.
 
 The goal was to construct a Convolutional Neural Network with Pytorch to detect pneumonia from X-ray images.
